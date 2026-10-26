@@ -1,0 +1,12 @@
+{
+  "create_student": {
+    "name": "Aarav Sharma",
+    "date_of_birth": "2005-04-12",
+    "email": "aarav.demo@example.com",
+    "phone": "9000000001",
+    "course": "BSc IT",
+    "address": "Mumbai",
+    "enrollment_date": "2026-06-01"
+  },
+  "update_student": {"course": "Artificial Intelligence"}
+}
